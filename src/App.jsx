@@ -7,7 +7,7 @@ const App = () => {
       <Hero />
 
       <About />
-      <section className="z-0 min-h-screen bg-blue-500" />
+     
     </div>
   );
 };
